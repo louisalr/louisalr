@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
   <h2>Hi, I'm Louis !&nbsp;<img alt="EmojiHand" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"></h2>
   <br />
@@ -26,7 +25,7 @@
 ### 📫 How to reach me
 <div align="center">
   <a href="https://www.linkedin.com/in/louis-alary-/" targer="_blank" />
-    <img alt="Linkedin Profile" src="![image](https://user-images.githubusercontent.com/58358948/223168145-caca1deb-5b07-4d94-b83c-a1a7a2eedcdc.png)" />
+    <img alt="Linkedin Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
