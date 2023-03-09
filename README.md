@@ -28,6 +28,8 @@
 
 🌐 Web frameworks : 
 
+<br/>
+
 <img align="left" alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" />
 <img align="left" alt="Symfony" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 
